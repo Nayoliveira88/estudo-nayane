@@ -1,0 +1,109 @@
+body {
+	background: #FCE8D5
+}
+
+#mulheres {
+	width: 100%;
+	height: 500px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 36px;
+	color: #581C0C;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	padding: 20px;
+	font-family: 'Source Serif Pro', serif;
+	font-size: 26px;
+}
+
+.resumo {
+	padding: 20px;
+	font-family: 'Source Serif Pro', serif;
+	font-size: 18px;
+}
+
+p h2{
+	color: #581C0C;
+}
+
+.topicos {
+	padding: 10px 10px;
+}
+
+.historia-mulheres{
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.historia-mulheres li {
+	display: inline-block;
+	text-align: left;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	border: 2px solid #F73859;
+	border-radius: 10px;
+}
+
+.historia-mulheres li:hover {
+	border-color: #FCF876;
+}
+
+.historia-mulheres li:hover h2 {
+	font-size: 24px;
+}
+
+.historia-mulheres h2 {
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+	color: #581C0C;
+}
+
+.historia {
+	text-align: center;
+}
+
+.sobre {
+	padding: 10px;
+	color: #581C0C;
+}
+
+#beatrice {
+	padding: 10px;
+}
+
+#agatha {
+	height: 226px;
+	width: 190px;
+	padding: 10px;
+}
+
+#dandara {
+	height: 226px;
+	width: 223px;
+	padding: 10px;
+}
+
+a {
+	color: #1B6CA8;
+}
+
+footer {
+	text-align: center;
+	background-color: #FF9595;
+	color: #581C0C;
+	padding: 40px 0;
+}
+
+.copyright {
+	font-size: 15px;
+	margin-top: 20px;
+}
